@@ -1,3 +1,3 @@
-## Karthik's Blog
+# Karthik
 
 Hello All
